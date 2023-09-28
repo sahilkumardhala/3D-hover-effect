@@ -1,4 +1,6 @@
-![theme](https://sahilkumardhala.github.io/3D-hover-effect/blob/main/Theme.jpg)
+<!--[Theme](https://sahilkumardhala.github.io/3D-hover-effect/blob/main/Theme.jpg)-->
+![Theme](https://github.com/sahilkumardhala/3D-hover-effect/assets/132347733/62b1e95b-3d46-48bf-b3dd-efd3c11981e7)
+
 # 3D-hover-effect
 # [📌Live Views](https://sahilkumardhala.github.io/3D-hover-effect/)
 
